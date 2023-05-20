@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:80vh;
-    background: url('C:/Users/user/OneDrive/Pictures/New folder/20221228_153309.jpg');
+    background: url('20221228_153309.jpg');
     background-size:cover;
     position:relative;
 }
