@@ -4,10 +4,10 @@
     color: blue;
 }
 
-.navbar-brand{
+.navbar-brand {
 color: blue;
 }
-.nav-item{
+.nav-item {
 color: blue;
 }
 
@@ -20,10 +20,11 @@ color: blue;
 }
 /* text css above hero image*/
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 5.5rem;
 }
 .hero_desc {
-    font-size: 2rem;
+    font-size: 4rem;
+    color: blue;
 }
 .hero-text {
     text-align: center;
