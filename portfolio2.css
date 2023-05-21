@@ -4,6 +4,13 @@
     color: blue;
 }
 
+.navbar-brand{
+color: blue;
+}
+.nav-item{
+color: blue;
+}
+
 /* hero background image */
 .bgimage {
     height:80vh;
