@@ -14,7 +14,7 @@ color: blue;
 /* hero background image */
 .bgimage {
     height:80vh;
-    background: url('full-stack-dev-image-1024x523.png');
+    background: url('full-stack-devlopment-min.png');
     background-size:cover;
     position:relative;
 }
@@ -32,7 +32,7 @@ color: blue;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(0, 0, 0);
+    color: rgb(0,0,0);
 }
 
 /* spacing on all sections */
