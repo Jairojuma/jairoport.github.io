@@ -14,7 +14,7 @@ color: blue;
 /* hero background image */
 .bgimage {
     height:80vh;
-    background: url('Dev bg1.jpg');
+    background: url('full-stack-dev-image-1024x523.png');
     background-size:cover;
     position:relative;
 }
